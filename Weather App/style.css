@@ -1,0 +1,26 @@
+body {
+    background: url(elio-santos-B6hw9ooyldM-unsplash.jpg);
+    background-position: center;
+    /*background-attachment: fixed;*/
+    /* background-repeat: no-repeat;*/
+}
+
+.container {
+    margin: 50px auto;
+    text-align: center;
+}
+
+.input {
+    width: 320px;
+    height: 30px;
+    border-radius: 4px;
+}
+
+.submit {
+    height: 35px;
+    width: 70px;
+    background-color: orangered;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+}
